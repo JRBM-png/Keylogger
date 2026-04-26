@@ -16,4 +16,5 @@ pip install pynput
 ### Run the file
 Run the file in your IDE and when you type it will automatically create a log.txt file, you can open it to view everything you've typed. 
 
-  
+## Credits
+https://youtu.be/mDY3v2Xx-Q4?si=ytz7Zc5VGQpv-ZrF
